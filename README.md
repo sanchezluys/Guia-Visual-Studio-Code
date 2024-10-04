@@ -9,6 +9,7 @@
 Visual Studio Code (VS Code) es un entorno de desarrollo ligero y rápido que te permite escribir, editar y ejecutar tu código de manera eficiente. ⚡️
 
 🔹 **Funciones clave**:
+
 - 🚀 Rápido y ligero
 - 📦 Soporte para extensiones personalizables
 - 🔍 Depuración y manejo de errores

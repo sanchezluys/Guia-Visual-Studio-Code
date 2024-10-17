@@ -18,7 +18,14 @@ class Hero {
     }
 } 
 
-
+class pui {
+    constructor() {
+        console.log('pui initialized');
+    }
+    showpui() {
+        return this;
+    }
+}
 
 
 

@@ -3,7 +3,6 @@
 // https://pokeapi.co/
 
 
-
 export interface Pokemon {
     abilities:                Ability[];
     base_experience:          number;
